@@ -8,11 +8,11 @@ Guided project for **Node Auth 1** Module.
 
 ## Project Setup
 
-- [ ] clone this repository.
-- [ ] move into the project folder.
-- [ ] type `npm i` to download dependencies.
-- [ ] type `npx knex migrate:latest` to run migrations.
-- [ ] type `npx knex seed:run` to populate the db.
-- [ ] type `npm run server` to start the API.
+- [x] clone this repository.
+- [x] move into the project folder.
+- [x] type `npm i` to download dependencies.
+- [x] type `npx knex migrate:latest` to run migrations.
+- [x] type `npx knex seed:run` to populate the db.
+- [x] type `npm run server` to start the API.
 
 Please follow along as the instructor adds authentication to the API.
